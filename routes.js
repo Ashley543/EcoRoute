@@ -12,4 +12,10 @@ window.routes = [
     {"from": "JFK", "to": "SFO", "co2": 550},
     {"from": "SFO", "to": "SEA", "co2": 120},
     {"from": "SEA", "to": "LAX", "co2": 200}
+    {"from": "SEA", "to": "WPG", "co2": 200},
+    {"from": "JFK", "to": "WPG", "co2": 200},
+    {"from": "ORD", "to": "WPG", "co2": 200},
+    {"from": "ATL", "to": "WPG", "co2": 200},
+    {"from": "SOF", "to": "WPG", "co2": 200}
+
 ]
